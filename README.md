@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @eq2907
 - 👀 I’m interested in front-end developer and UI/UX
 - 🌱 I’m currently learning VueJs and Design 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me eq.susanto@gmail.com
 
 <!---
